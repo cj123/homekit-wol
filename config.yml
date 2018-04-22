@@ -1,0 +1,11 @@
+# pin for homekit auth
+pin: 00000000
+
+# details of the device you want to wake/sleep
+ip: some-ip
+mac: some-mac
+
+# the path to the keyfile to log into the server
+username: bob
+port: 22
+keyfile: /path/to/id_rsa
